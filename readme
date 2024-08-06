@@ -1,0 +1,14 @@
+# Node.js Project
+
+This project demonstrates several features of Node.js, including an Express application, worker threads for asynchronous computation, and WebSocket communication. This README provides an overview of each component, how to set up the project, and how to run the servers.
+
+## Project Structure
+
+The project includes the following main files:
+
+- **`app.js`**: Contains the Express application for handling user authentication.
+- **`fibonacciWorker.js`**: Implements a worker thread for calculating Fibonacci numbers.
+- **`server.js`**: Sets up an HTTP server that utilizes worker threads for computation.
+- **`ws-server.js`**: Configures a WebSocket server for real-time communication.
+- **`package.json`**: Lists project dependencies and scripts.
+- **`README.md`**: This file, providing project documentation.
